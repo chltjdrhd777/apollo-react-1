@@ -1,2 +1,3 @@
-# apollo-react-1
-ok
+# Apollo 2020
+
+Movie app built with React, Apollo and GraphQl
